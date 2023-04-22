@@ -1,0 +1,59 @@
+nav{
+    border:hidden black;
+    margin-left:10cm;
+    margin-right: 5cm;
+    overflow:initial;    
+    width: 40cm;
+
+}
+h2{
+    color:brown
+}
+.lab{
+    border-top: solid thick;
+    border-bottom:solid thin;
+}
+.lab ul{
+    background-color: lightseagreen;
+    width: 97%;
+    font-size: xx-large;
+    display:inline-flex;
+    list-style: none;
+   
+}
+
+.lab ul li{
+    margin:30px;
+}
+.lab ul li a:hover {
+    background:yellow;
+    color:green;
+    
+}
+.JW{
+    border: solid goldenrod;
+    border-radius: 20px;
+    overflow:auto;
+    background-color: antiquewhite;
+    font-size: x-large;
+    height: 7cm;width: 35cm;
+}
+
+.SM{
+    border: solid green;
+    border-radius: 20px;
+    overflow:auto;
+    background-color: antiquewhite;
+    font-size: x-large;
+    height: 7cm;width: 35cm;
+}
+.ATW{
+    border: solid blueviolet;
+    border-radius: 20px;
+    overflow:auto;
+    background-color: antiquewhite;
+    font-size: x-large;
+    height: 7cm;
+    width: 35cm;
+}
+
