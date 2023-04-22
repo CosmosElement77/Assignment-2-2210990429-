@@ -1,10 +1,10 @@
 nav{
-    border:hidden black;
-    margin-left:10cm;
-    margin-right: 5cm;
-    overflow:initial;    
-    width: 40cm;
-
+    border:hidden;
+    border-width: 3cm;
+    overflow:hidden;    
+    width:100%;
+    scale:0.75 ;
+    align-self:auto;
 }
 h2{
     color:brown
@@ -15,11 +15,10 @@ h2{
 }
 .lab ul{
     background-color: lightseagreen;
-    width: 97%;
+    width: 95%;
     font-size: xx-large;
     display:inline-flex;
-    list-style: none;
-   
+    list-style: none; 
 }
 
 .lab ul li{
