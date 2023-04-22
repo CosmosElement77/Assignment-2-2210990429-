@@ -1,10 +1,9 @@
 nav{
     border:hidden;
-    border-width: 3cm;
-    overflow:hidden;    
+    overflow:auto;    
     width:100%;
-    scale:0.75 ;
-    align-self:auto;
+    scale:fixed;
+
 }
 h2{
     color:brown
